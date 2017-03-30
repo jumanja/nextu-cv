@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_14">
+   <rect id="svg_15" stroke="#bfbfbf" height="270.999997" width="35" y="99.750005" x="228.5" stroke-linejoin="round" stroke-width="5" fill="#bfbfbf"/>
+   <rect id="svg_16" height="41" width="161" y="331.75" x="100.5" stroke-linejoin="round" stroke-width="5" stroke="#bfbfbf" fill="#bfbfbf"/>
+   <rect id="svg_17" height="66" width="35" y="306.75" x="100.5" stroke-linejoin="round" stroke-width="5" stroke="#bfbfbf" fill="#bfbfbf"/>
+   <rect id="svg_18" stroke="#bfbfbf" height="270.999999" width="35" y="99.750001" x="312.5" stroke-linejoin="round" stroke-width="5" fill="#bfbfbf"/>
+   <rect id="svg_19" stroke="#bfbfbf" height="270.999999" width="35" y="99.250001" x="380" stroke-linejoin="round" stroke-width="5" fill="#bfbfbf"/>
+   <rect id="svg_20" stroke="#bfbfbf" height="270.999999" width="35" y="100.250001" x="454" stroke-linejoin="round" stroke-width="5" fill="#bfbfbf"/>
+   <rect id="svg_21" height="52" width="201" y="99.75" x="298.5" stroke-linecap="null" stroke-linejoin="round" stroke-dasharray="null" stroke-width="5" stroke="#bfbfbf" fill="#bfbfbf"/>
+  </g>
+  <g id="svg_13">
+   <rect stroke="#3f3f3f" id="svg_5" height="270.999997" width="35" y="87.000005" x="220" stroke-linejoin="round" stroke-width="5" fill="#007fff"/>
+   <rect id="svg_6" height="41" width="161" y="319" x="92" stroke-linejoin="round" stroke-width="5" stroke="#3f3f3f" fill="#007fff"/>
+   <rect id="svg_7" height="66" width="35" y="294" x="92" stroke-linejoin="round" stroke-width="5" stroke="#3f3f3f" fill="#007fff"/>
+   <rect stroke="#3f3f3f" id="svg_8" height="270.999999" width="35" y="87.000001" x="304" stroke-linejoin="round" stroke-width="5" fill="#007fff"/>
+   <rect id="svg_10" stroke="#3f3f3f" height="270.999999" width="35" y="86.500001" x="371.5" stroke-linejoin="round" stroke-width="5" fill="#007fff"/>
+   <rect id="svg_11" stroke="#3f3f3f" height="270.999999" width="35" y="87.500001" x="445.5" stroke-linejoin="round" stroke-width="5" fill="#007fff"/>
+   <rect id="svg_12" height="52" width="201" y="87" x="290" stroke-linecap="null" stroke-linejoin="round" stroke-dasharray="null" stroke-width="5" stroke="#3f3f3f" fill="#007fff"/>
+  </g>
+ </g>
+</svg>
